@@ -1,0 +1,18 @@
+<package>
+  <description brief="re_pl_utils">
+
+     re_pl_utils
+
+  </description>
+  <author>Daniel Di Marco</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/re_pl_utils</url>
+  <depend package="cram_language"/>
+  <depend package="cram_json_prolog"/>
+  <!--<depend package="cl_json_pl_client"/>-->
+  <depend package="cl_transforms"/>
+
+</package>
+
+
